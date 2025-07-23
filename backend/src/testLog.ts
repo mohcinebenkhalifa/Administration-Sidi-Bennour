@@ -1,0 +1,1 @@
+console.log('Hello from testLog.ts! If you see this, ts-node is working.'); 

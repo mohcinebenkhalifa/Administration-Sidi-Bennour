@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Festival de Musique",
+    "date": "2024-08-15",
+    "time": "18:00",
+    "location": "Place Centrale",
+    "description": "Un festival de musique en plein air avec des artistes locaux et nationaux.",
+    "image": "/images/event1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Marché Artisanal",
+    "date": "2024-07-20",
+    "time": "10:00",
+    "location": "Rue Principale",
+    "description": "Découvrez les produits artisanaux de la région.",
+    "image": "/images/event2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Exposition d'Art",
+    "date": "2024-09-01",
+    "time": "09:00",
+    "location": "Galerie d'Art Municipale",
+    "description": "Une exposition des œuvres d'artistes émergents.",
+    "image": "/images/event3.jpg"
+  }
+] 
